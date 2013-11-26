@@ -2,6 +2,8 @@ ToggleHiddenFiles.app
 =====================
 This is a simple App created using AppleScript commands. This app is intended to be used as a button docked in the toolbar inside a Finder window.
 
+![Screenshot](Screenshot-ToggleHiddenFiles-InFinder.png "Screenshot of the app docked in the Finder toolbar")
+
 Note: It is currently not signed by a developer, so if you have Gatekeeper running (as you should) you will see a warning when you try to run it via double-clicking the app. 
 
 ##To use the app:
